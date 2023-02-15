@@ -1,0 +1,12 @@
+
+
+body{
+    background-color: grey;
+}
+button{
+    font-size: 58px;
+}
+#container {
+    text-align: center;
+    margin-top: 5%;
+}
